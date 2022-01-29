@@ -1,0 +1,1 @@
+i=input;c='> ';print(i(c)*int(i(c)));i()
